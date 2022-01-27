@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615125365 source:c:\users\svaba1012\documents\cpp\kaojpg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<complex.h>
+
+1643296606 source:c:\users\svaba1012\desktop\github projects\picture_forier_transform_filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<complex.h>
+	<conio.h>
+
